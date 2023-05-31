@@ -1,0 +1,12 @@
+h1 {
+    font-size: xx-large;
+    font-weight: bold;
+    text-align: center;
+}
+
+li {
+    text-align: center;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
